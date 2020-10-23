@@ -1,0 +1,20 @@
+h1,
+h2 {
+   color: #FF6600; 
+}
+
+.contenair {
+   margin : 10px;
+}
+
+button {
+   background-color: #FF6600;
+}
+
+.ng-valid[required], .ng-valid.required {
+   border-left: 5px solid #42A948 !important; 
+ }
+ 
+ .ng-invalid:not(form).ng-touched {
+   border-left: 5px solid #a90400 !important; 
+ }
